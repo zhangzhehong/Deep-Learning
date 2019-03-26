@@ -1,0 +1,7 @@
+Tip 1:
+if tensorflow version doesn't match keras,there will generate many errors!So,we should be careful of different versions!
+
+A: tensorflow 1.5 + keras 2.1.4 +numpy 1.13.3
+B: tensorflow 1.4 + keras 2.1.3
+C: tensorflow 1.3 + keras 2.1.2
+D: tensorflow 1.2 + keras 2.1.1

@@ -14,3 +14,9 @@ from keras.utils.conv_utils import normalize_data_format
 but
 
 from keras.backend.common import normalize_data_format
+
+
+Tip 3:
+Seriously,we should carefully read official documents about the version of TF and how to install other version of package.
+A:TF 1.4 + cuda 8.0 + cudnn 7.0
+B:TF 1.5 + cuda 9.0 + cudnn 7.0
